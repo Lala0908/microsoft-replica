@@ -1,0 +1,72 @@
+body {
+    font-family: Georgia, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    display: inline;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+main {
+    display: block;
+
+}
+
+div.image-card {
+    padding: 0;
+    text-align: left;
+    float: left;
+    margin: 20px;
+    width: 25%;
+
+}
+
+div.image-card img {
+    background-size: cover;
+    width: 100%;
+
+}
+
+div.image-cards {
+    display: inline-flex;
+
+}
+
+div {
+    display: inline;
+    float: left;
+}
+
+/* img {
+    display: inline;
+    background-size: cover;
+    width: 100%;
+    
+} */
+#main-banner {
+    display: inline;
+    background-size: cover;
+    width: 100%;
+
+}
+
+section {
+    display: inline;
+
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+    float: right;
+
+}
